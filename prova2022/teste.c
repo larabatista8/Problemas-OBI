@@ -1,2 +1,0 @@
-hdhhfff
-return 0;
